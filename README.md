@@ -101,3 +101,5 @@ Hey, My Name is Dirgh Patel, I'm a Master of Computer Science Student at IIT Chi
   
 </p>
 </h1>
+
+<h3>Thanks for Stopping by!! 😊</h3>
