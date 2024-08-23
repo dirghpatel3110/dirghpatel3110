@@ -1,16 +1,13 @@
-## Hi there 👋
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+/>
 
-<!--
-**dirghpatel3110/dirghpatel3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 class = "animate__animated animate__zoomIn" >
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nisarg210/nisarg210/main/Hi.gif" width="30px">, I'm Dirgh !!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h2>
+
+<hr/>
