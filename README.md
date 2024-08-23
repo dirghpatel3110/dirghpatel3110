@@ -83,3 +83,21 @@ Hey, My Name is Dirgh Patel, I'm a Master of Computer Science Student at IIT Chi
 </a>
 
 <hr>
+
+<h1 align="center">
+✨ Where you can find me ✨
+
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/dirgh-patel-b196bb206/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/dirghpatel3110/">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+  <br/>
+  
+</p>
+</h1>
