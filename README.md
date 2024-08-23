@@ -15,3 +15,5 @@
 ## About Me
 
 Hey, My Name is Dirgh Patel, I'm a Master of Computer Science Student at IIT Chicago. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+
+## <strong>My Tech Stack</strong>
